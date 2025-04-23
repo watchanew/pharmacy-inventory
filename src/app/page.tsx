@@ -68,7 +68,7 @@ export default function Home() {
               height="600"
               className="border-0 rounded-lg shadow-inner bg-gray-50"
               scrolling="no"
-              src="https://studentmahidolac-my.sharepoint.com/personal/watcharasak_pro_student_mahidol_ac_th/_layouts/15/Doc.aspx?sourcedoc={08b564b6-171a-4827-9962-bb9371235bcb}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"
+              src="https://studentmahidolac-my.sharepoint.com/personal/sasit_srr_student_mahidol_ac_th/_layouts/15/Doc.aspx?sourcedoc={bacebc90-dc84-4aba-927a-cb23fa45a717}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"
               title="ข้อมูลการตรวจสอบห้องยา"
             />
           </div>
