@@ -29,7 +29,7 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600">
-                  ระบบตรวจสอบคลังยา
+                  ยาไม่พร่อง (YaMaiPhong)
                 </h1>
                 <p className="text-xs text-gray-500 font-medium">
                   ความโปร่งใส • ความรับผิดชอบ • ความซื่อสัตย์
